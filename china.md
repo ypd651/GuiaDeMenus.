@@ -13,3 +13,8 @@ Hot Pot: Olla caliente comunitaria.
 ##**Bebidas**
 Baijiu (白酒): Licor destilado tradicional, a menudo considerado la bebida nacional, con un sabor fuerte.
 Huangjiu (黄酒): Vino de arroz amarillo, uno de los más antiguos del mundo.
+
+![china](imagenes/descarga%20(4).jpeg)
+
+##**Consejos**
+Probar sin Miedo: La cocina china es regional (picante en Sichuan, suave en Cantón). Pregunta siempre si un plato es picante si no eres amante del picante.
