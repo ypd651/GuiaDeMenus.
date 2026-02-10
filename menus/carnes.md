@@ -12,3 +12,8 @@ Coliflor/Brócoli: Al vapor o gratinados con queso.
 Agua: Agua pura, mineral o con gas es el estándar de oro para la hidratación.
 Caldo de huesos: Rico en nutrientes, excelente para el equilibrio de electrolitos.
 Café y Té negro: Aceptados por muchos si se consumen sin azúcar, edulcorantes ni leche vegetal.
+
+![carnes](imagenes/descarga%20(8).jpeg)
+
+## **Consejos**
+Las carnes rojas intensas combinan mejor con guarniciones asadas y con sustancia, mientras que las aves o carnes más ligeras prefieren vegetales frescos o purés ligeros. 
