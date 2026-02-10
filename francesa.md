@@ -12,3 +12,8 @@ Especialidades Regionales: Raclette (queso fundido con patatas) y Galettes (crep
 Vino y Champán: Como primer productor mundial, destacan las regiones de Burdeos, Borgoña y Champagne.
 Pastis (Ricard/Pernod): Licor anisado clásico del sur de Francia, servido con agua.
 Coñac y Armañac: Brandy fino del suroeste, siendo Courvoisier una marca destacada.
+
+![francesa](imagenes/descarga%20(5).jpeg)
+
+## **Consejo**
+Evitar trampas para turistas: Huye de restaurantes con menús muy extensos, fotos de los platos, o situados justo frente a monumentos principales.
