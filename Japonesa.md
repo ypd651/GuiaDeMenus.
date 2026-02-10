@@ -14,3 +14,8 @@ Estructura tradicional: Una comida clásica incluye arroz, sopa de miso y tres g
 Sencha: Té verde japonés estándar.
 Matcha: Té verde en polvo, consumido en té o latte.
 Hojicha: Té verde tostado con sabor ahumado.
+
+![japon](imagenes/descarga%20(2).jpeg)
+
+##**Consejo**
+ No claves los palillos en el arroz (es de mala educación, similar a ritos funerarios) ni los uses para pasar comida a otros, ya que recuerda a rituales de cremación.
