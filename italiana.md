@@ -5,3 +5,6 @@ caracterizada por la frescura de sus ingredientes, la simplicidad, la tradición
 
 ##**Platos**
 pasta, risotto, ñoquis, sopas) y secondi piatti (segundos platos: carnes, pescados
+
+##**Bebidas principales**
+ El vino (tinto, blanco, rosado) y el champán
