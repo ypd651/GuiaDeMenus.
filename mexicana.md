@@ -11,3 +11,8 @@ Cochinita Pibil: Cerdo adobado típico de Yucatán.
 
 ##**Bebidas**
 Acompaña con aguas frescas (jamaica, horchata) o mezcal, a menudo servido con sal de gusano y naranja.
+
+![mexico](imagenes/descarga%20(1).jpeg)
+
+##**Consejo**
+Al comer en México, no temas a los mercados locales, donde se encuentra la comida más auténtica a precios accesibles. 
