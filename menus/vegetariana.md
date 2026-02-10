@@ -7,3 +7,8 @@ Para una alimentación vegetariana equilibrada y sabrosa, base su dieta en una g
 Wraps: Vegetales frescos, hummus y tofu o garbanzos en tortilla de trigo integral.
 Curry: Mezcla de vegetales (calabaza, coliflor, zanahoria) con leche de coco y especias sobre arroz integral.
 Ensaladas: Garbanzos con cebolla, tomate, cilantro y limón.
+
+### **Bebidas**
+Mango-Coco: Leche de coco licuada con mango maduro, hielo y un toque de jarabe de arce.
+Avena-Plátano: Leche de avena con plátano, crema de cacahuete y canela.
+"Power Smoothies" de Chía: Bebidas de chía para un aporte extra de energía.
