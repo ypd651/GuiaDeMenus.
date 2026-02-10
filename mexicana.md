@@ -1,0 +1,18 @@
+# MENU MEXICANO
+
+##**Descripcion**
+se caracteriza por su riqueza en sabores, el uso de maíz nixtamalizado, chiles y salsas caseras como base
+
+##**platillos**
+Mole: Salsa compleja y densa, ideal para festividades.
+Pozole: Sopa tradicional de maíz y carne.
+Chiles en Nogada: Plato poblano emblemático con salsa de nuez.
+Cochinita Pibil: Cerdo adobado típico de Yucatán.
+
+##**Bebidas**
+Acompaña con aguas frescas (jamaica, horchata) o mezcal, a menudo servido con sal de gusano y naranja.
+
+![mexico](imagenes/descarga%20(1).jpeg)
+
+##**Consejo**
+Al comer en México, no temas a los mercados locales, donde se encuentra la comida más auténtica a precios accesibles. 
