@@ -8,3 +8,6 @@ Mole: Salsa compleja y densa, ideal para festividades.
 Pozole: Sopa tradicional de maíz y carne.
 Chiles en Nogada: Plato poblano emblemático con salsa de nuez.
 Cochinita Pibil: Cerdo adobado típico de Yucatán.
+
+##**Bebidas**
+Acompaña con aguas frescas (jamaica, horchata) o mezcal, a menudo servido con sal de gusano y naranja.
