@@ -12,3 +12,8 @@ Ensaladas: Garbanzos con cebolla, tomate, cilantro y limón.
 Mango-Coco: Leche de coco licuada con mango maduro, hielo y un toque de jarabe de arce.
 Avena-Plátano: Leche de avena con plátano, crema de cacahuete y canela.
 "Power Smoothies" de Chía: Bebidas de chía para un aporte extra de energía.
+
+![vegetariana](imagenes/descarga%20(7).jpeg)
+
+## **Consejos**
+Variedad y Proteínas: Asegure el consumo de aminoácidos esenciales incorporando diversas fuentes: frijoles, lentejas, garbanzos, soja, tofu, tempeh, frutos secos y semillas.
