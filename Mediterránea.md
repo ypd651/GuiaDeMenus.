@@ -12,3 +12,8 @@ Ingredientes Clave: Aceite de oliva virgen extra, queso feta, aceitunas Kalamata
 Ouzo (Grecia): Licor anisado que se vuelve lechoso al añadir agua.
 Limoncello (Italia): Licor de limón, muy popular como digestivo tras las comidas.
 Pastis (Francia): Licor con sabor a anís, a menudo diluido con agua o jarabe de almendra (mauresque).
+
+![mediterráneo](imagenes/descarga%20(6).jpeg)
+
+## **Consejos**
+Más Pescado, Menos Carne: Consume pescados y mariscos con frecuencia (pescado azul: sardina, boquerón), mientras que la carne roja debe ser moderada.
