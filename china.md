@@ -9,3 +9,7 @@ Dumplings (Jiaozi): Empanadillas cocidas, al vapor o fritas.
 Mapo Tofu: Tofu con carne picada, típico de Sichuan.
 Cerdo Agridulce: Un clásico, especialmente en la cocina cantonesa.
 Hot Pot: Olla caliente comunitaria. 
+
+##**Bebidas**
+Baijiu (白酒): Licor destilado tradicional, a menudo considerado la bebida nacional, con un sabor fuerte.
+Huangjiu (黄酒): Vino de arroz amarillo, uno de los más antiguos del mundo.
